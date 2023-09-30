@@ -282,7 +282,7 @@ html{
 }
 @keyframes javascript {
     0%{width: 0%;}
-    100%{width: 65%;}
+    100%{width: 70%;}
 }
 
 .skills .skill .htmlcss{
@@ -291,7 +291,7 @@ html{
 }
 @keyframes htmlcss {
     0%{width: 0%;}
-    100%{width: 80%;}
+    100%{width: 85%;}
 }
 
 .skills .skill .photoshop{
@@ -318,7 +318,7 @@ html{
 }
 @keyframes angularjs {
     0%{width: 0%;}
-    100%{width: 55%;}
+    100%{width: 70%;}
 }
 
 .skills .skill .comunicacion{
